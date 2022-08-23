@@ -1,2 +1,4 @@
 /submissions/
 /venv/
+/.ipynb_checkpoints/
+/data/prepared_df.csv
