@@ -1,5 +1,5 @@
 # Tula_Digital_Breakthrough
-Link to the championat: https://hacks-ai.ru/championships/758260
+Link to the championship: https://hacks-ai.ru/championships/758260
 
 The main idea is to try to predict the number of potential patient according to the ICD Code, Patient sex, Date and City. 
 
